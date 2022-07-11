@@ -11,7 +11,9 @@
 
 <h3 >SCREENSHOT</h3>
 
-<img src = "https://github.com/shashwatk472/Car_selling_price_prediction/blob/main/Home%20page.png"></img>
+<p align="left" width="100%">
+    <img width="60%" src="https://github.com/shashwatk472/Car_selling_price_prediction/blob/main/Home%20page.png"> 
+</p>
 
 <p>Users can check the selling price of their vehicle by selecting the appropriate field based on the type of vehicle.</p>
 
