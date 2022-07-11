@@ -2,6 +2,10 @@
 
 <h4 align="center">A web application which allow users to check the selling price of their vehicle.</h4>
 
-<h2 align="center">SCREENSHOTS</h2>
+<h2 align="center">SCREENSHOT</h2>
+
+<img src = "https://github.com/shashwatk472/Car_selling_price_prediction/blob/main/Home%20page.png"></img>
+
+<p>Users can choose the appropriate field based on their vehicle type.</p>
 
 
